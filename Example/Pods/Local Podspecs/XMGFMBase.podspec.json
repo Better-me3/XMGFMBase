@@ -1,0 +1,30 @@
+{
+  "name": "XMGFMBase",
+  "version": "0.1.0",
+  "summary": "A short description of XMGFMBase.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Better-me3/XMGFMBase",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Better-me3": "zhang@aia.com"
+  },
+  "source": {
+    "git": "https://github.com/Better-me3/XMGFMBase.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XMGFMBase/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "SDWebImage": [
+
+    ]
+  }
+}
